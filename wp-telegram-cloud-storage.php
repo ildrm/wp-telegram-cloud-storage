@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Telegram Cloud Storage
- * Plugin URI: https://ildrm.com/telegram-cloud-storage
+ * Plugin URI: https://ildrm.com/wordpress-telegram-cloud-storage
  * Description: A WordPress plugin to store media uploads in Telegram instead of the local server.
  * Version: 1.1.5
  * Author: Shahin Ilderemi
